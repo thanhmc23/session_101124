@@ -1,0 +1,61 @@
+body{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.hover:hover{
+    background-color: black !important;
+    color: white !important;
+}
+.p1{
+    margin: 10px 200px ;
+}
+.p2{
+    justify-content: end !important;
+}
+.main-conten{
+    margin: 50px 100px ;
+    
+}
+
+.p5{
+    padding-top: 85px;
+}
+.feedback{
+    background-color: black;
+    padding: 100px 100px;
+}
+.endline{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    padding-left: 0 !important;
+    line-height: 2;
+    text-align: justify;
+}
+.endline:hover{
+    background-color: black;
+    color: white;
+}
+.p3{
+    background-color: orange !important;
+    color: white !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+
+}
+.bg-img{
+    background-image:url("https://static.baovanhoa.vn/zoom/1200_630/Portals/0/EasyDNNNews/76285/H%C3%A0-N%E1%BB%99i-tr%E1%BB%9F-th%C3%A0nh-%C4%91i%E1%BB%83m-%C4%91%E1%BA%BFn-%C3%A2m-nh%E1%BA%A1c-c%E1%BB%A7a-c%C3%A1c-ngh%E1%BB%87-s%C4%A9-trong-v%C3%A0-ngo%C3%A0i-n%C6%B0%E1%BB%9Bc.-%E1%BA%A2nh-ITN(1)1.jpg");
+}
+.boder-1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.special-botton{
+    margin: 50px 100px ;
+}
+.aplus{
+    box-sizing: border-box;
+}
+

@@ -1,0 +1,30 @@
+body {
+    font-family: "Be Vietnam Pro", sans-serif !important;
+    font-weight: 400;
+    font-style: normal;
+}
+@media only screen and (max-width: 800px) {
+  .anh {
+    display: none;
+  }
+  .us_info {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .main-conten{
+    margin: 10px !important;
+  }
+  .feedback{
+    padding: 50px !important;
+  }
+  
+}
+.scroll-to-top{
+  top: 88vh;
+  left: 94vw;
+  position: fixed;
+  z-index: 99;
+  padding: 10px;
+  text-decoration: none;
+}
